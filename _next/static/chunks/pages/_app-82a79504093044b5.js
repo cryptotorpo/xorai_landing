@@ -1393,7 +1393,7 @@
           },
           {
             name: "Dextools",
-            url: "https://www.dextools.io/app/en/ether/pair-explorer/0x00000000000000000000000000000000000000",
+            url: "https://www.dextools.io/app/en/ether/pair-explorer/0x8b3f46cd009c674a6aca641f8ea0f42430c48eba",
             icon: (0, a.jsx)(v(), {
               src: "/update/dextools.svg",
               alt: "",
