@@ -470,7 +470,7 @@
                           children: [
                             (0, v.jsx)(f, {
                               type: "secondary",
-                              title: "Learn",
+                              title: "Follow our Twitter",
                               link: "https://x.com/xoraichain_eth",
                               icon: !1,
                             }),
