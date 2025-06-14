@@ -1373,7 +1373,7 @@
         _ = [
           {
             name: "Telegram",
-            url: "https://t.me/",
+            url: "https://t.me/xoraichain_eth",
             icon: (0, a.jsx)(v(), {
               src: g.DW.src,
               alt: "",
@@ -1383,7 +1383,7 @@
           },
           {
             name: "Twitter",
-            url: "https://x.com/",
+            url: "https://x.com/xoraichain_eth",
             icon: (0, a.jsx)(v(), {
               src: g.up.src,
               alt: "",

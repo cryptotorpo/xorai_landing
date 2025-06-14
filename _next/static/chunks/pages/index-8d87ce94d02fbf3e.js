@@ -478,7 +478,7 @@
                             (0, v.jsx)(f, {
                               type: "primary",
                               title: "Join To Community",
-                              link: "https://t.me/",
+                              link: "https://t.me/xoraichain_eth",
                             }),
                           ],
                         }),
@@ -801,7 +801,7 @@
             title: "Plume Network",
             image: en.Plume,
             labels: ["Plume"],
-            properties: { url: "https://x.com//" },
+            properties: { url: "https://x.com/xoraichain_eth/" },
           },
           {
             id: "19",
