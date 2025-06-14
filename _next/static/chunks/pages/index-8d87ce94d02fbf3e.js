@@ -336,7 +336,7 @@
                 i.current = !1;
               },
               onClick: function () {
-                window.location.href = "https://app.xoraichain.com/control-center";
+                window.location.href = "https://app.xoraichain.com/";
               },
             })
           );
