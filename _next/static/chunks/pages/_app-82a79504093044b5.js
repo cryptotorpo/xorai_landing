@@ -1343,7 +1343,7 @@
             list: [
               {
                 title: "Docs",
-                link: "https://docs.xorai.network",
+                link: "https://x.com/xoraichain_eth",
                 target: "_blank",
                 comingSoon: !0,
               }
@@ -1485,7 +1485,7 @@
                           e.getFullYear(),
                           " Xoraichain Foundation. All Rights Reserved.\xa0",
                           (0, a.jsx)("a", {
-                            href: "https://docs.xorai.networkothers/privacy-policy",
+                            href: "https://x.com/xoraichain_ethothers/privacy-policy",
                             target: "_blank",
                             children: "Privacy Policy",
                           }),

@@ -471,7 +471,7 @@
                             (0, v.jsx)(f, {
                               type: "secondary",
                               title: "Learn",
-                              link: "https://docs.xorai.network",
+                              link: "https://x.com/xoraichain_eth",
                               icon: !1,
                             }),
                             (0, v.jsx)("div", { style: { padding: 6 } }),
