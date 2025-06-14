@@ -186,7 +186,7 @@
                     },
                   }),
                   children: (0, v.jsx)("a", {
-                    href: "https://hub.xorai.network/",
+                    href: "https://app.xoraichain.com/",
                     target: "_blank",
                     children: (0, v.jsx)(k(), {
                       src: "/images/banner-10.png",
@@ -246,7 +246,7 @@
                             (0, v.jsx)(f, {
                               type: "secondary",
                               title: "Explore App",
-                              link: "https://hub.xorai.network/",
+                              link: "https://app.xoraichain.com/",
                               icon: !1,
                             })
                           ],
@@ -336,7 +336,7 @@
                 i.current = !1;
               },
               onClick: function () {
-                window.location.href = "https://hub.xorai.network/control-center";
+                window.location.href = "https://app.xoraichain.com/control-center";
               },
             })
           );
