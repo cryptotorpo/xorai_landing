@@ -186,7 +186,7 @@
                     },
                   }),
                   children: (0, v.jsx)("a", {
-                    href: "https://app.xoraichain.com/",
+                    href: "https://app.xoraichain.pro/",
                     target: "_blank",
                     children: (0, v.jsx)(k(), {
                       src: "/images/banner-10.png",
@@ -246,7 +246,7 @@
                             (0, v.jsx)(f, {
                               type: "secondary",
                               title: "Explore App",
-                              link: "https://app.xoraichain.com/",
+                              link: "https://app.xoraichain.pro/",
                               icon: !1,
                             })
                           ],
@@ -336,7 +336,7 @@
                 i.current = !1;
               },
               onClick: function () {
-                window.location.href = "https://app.xoraichain.com/";
+                window.location.href = "https://app.xoraichain.pro/";
               },
             })
           );
@@ -471,14 +471,14 @@
                             (0, v.jsx)(f, {
                               type: "secondary",
                               title: "Follow our Twitter",
-                              link: "https://x.com/xoraichain_eth",
+                              link: "https://x.com/XorAi_Chain",
                               icon: !1,
                             }),
                             (0, v.jsx)("div", { style: { padding: 6 } }),
                             (0, v.jsx)(f, {
                               type: "primary",
                               title: "Join To Community",
-                              link: "https://t.me/xoraichain_eth",
+                              link: "https://t.me/xorai_chain",
                             }),
                           ],
                         }),
@@ -497,7 +497,7 @@
                               type: "bottomUp",
                               delay: 0.2,
                               children:
-                                "CA : 0x8b3f46cd009c674a6aca641f8ea0f42430c48eba",
+                                "CA : 0x00000000000000000000000000000000000000",
                             }),
                           }),
                           (0, v.jsx)(k(), {
@@ -801,7 +801,7 @@
             title: "Plume Network",
             image: en.Plume,
             labels: ["Plume"],
-            properties: { url: "https://x.com/xoraichain_eth/" },
+            properties: { url: "https://x.com/XorAi_Chain/" },
           },
           {
             id: "19",

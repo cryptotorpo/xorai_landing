@@ -1343,7 +1343,7 @@
             list: [
               {
                 title: "Docs",
-                link: "https://x.com/xoraichain_eth",
+                link: "https://x.com/XorAi_Chain",
                 target: "_blank",
                 comingSoon: !0,
               }
@@ -1373,7 +1373,7 @@
         _ = [
           {
             name: "Telegram",
-            url: "https://t.me/xoraichain_eth",
+            url: "https://t.me/xorai_chain",
             icon: (0, a.jsx)(v(), {
               src: g.DW.src,
               alt: "",
@@ -1383,7 +1383,7 @@
           },
           {
             name: "Twitter",
-            url: "https://x.com/xoraichain_eth",
+            url: "https://x.com/XorAi_Chain",
             icon: (0, a.jsx)(v(), {
               src: g.up.src,
               alt: "",
@@ -1485,7 +1485,7 @@
                           e.getFullYear(),
                           " Xoraichain Foundation. All Rights Reserved.\xa0",
                           (0, a.jsx)("a", {
-                            href: "https://x.com/xoraichain_ethothers/privacy-policy",
+                            href: "https://x.com/XorAi_Chainothers/privacy-policy",
                             target: "_blank",
                             children: "Privacy Policy",
                           }),
@@ -1536,7 +1536,7 @@
                   }),
                   (0, a.jsx)(j(), {
                     className: E("link-url"),
-                    href: "https://app.xoraichain.com/",
+                    href: "https://app.xoraichain.pro/",
                     children: "Launch App",
                   }),
                 ],
