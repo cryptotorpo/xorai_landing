@@ -1435,7 +1435,7 @@
                           (0, a.jsx)("div", {
                             className: y("text"),
                             children:
-                              "Xoraichain is the world's first layer 1 of AI blockchain oracle established in 2024. The project is now driving advancements in human-centric artificial intelligence and cross-chain interoperability, paying the way for next-generation Web3 applications and their mass adoption.",
+                              "Xoraichain is the world's first layer 1 of AI blockchain oracle established in 2025. The project is now driving advancements in human-centric artificial intelligence and cross-chain interoperability, paying the way for next-generation Web3 applications and their mass adoption.",
                           }),
                         ],
                       }),
