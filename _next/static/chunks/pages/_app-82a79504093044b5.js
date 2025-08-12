@@ -1536,7 +1536,7 @@
                   }),
                   (0, a.jsx)(j(), {
                     className: E("link-url"),
-                    href: "https://app.xoraichain.pro/",
+                    href: "https://app.xor-ai.pro/",
                     children: "Launch App",
                   }),
                 ],

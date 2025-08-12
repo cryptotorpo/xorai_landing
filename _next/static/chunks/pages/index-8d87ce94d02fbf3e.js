@@ -186,7 +186,7 @@
                     },
                   }),
                   children: (0, v.jsx)("a", {
-                    href: "https://app.xoraichain.pro/",
+                    href: "https://app.xor-ai.pro/",
                     target: "_blank",
                     children: (0, v.jsx)(k(), {
                       src: "/images/banner-10.png",
@@ -246,7 +246,7 @@
                             (0, v.jsx)(f, {
                               type: "secondary",
                               title: "Explore App",
-                              link: "https://app.xoraichain.pro/",
+                              link: "https://app.xor-ai.pro/",
                               icon: !1,
                             })
                           ],
@@ -336,7 +336,7 @@
                 i.current = !1;
               },
               onClick: function () {
-                window.location.href = "https://app.xoraichain.pro/";
+                window.location.href = "https://app.xor-ai.pro/";
               },
             })
           );
