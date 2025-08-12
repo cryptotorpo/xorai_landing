@@ -471,14 +471,14 @@
                             (0, v.jsx)(f, {
                               type: "secondary",
                               title: "Follow our Twitter",
-                              link: "https://x.com/XorAi_Chain",
+                              link: "https://x.com/Xor_Ai_Eth",
                               icon: !1,
                             }),
                             (0, v.jsx)("div", { style: { padding: 6 } }),
                             (0, v.jsx)(f, {
                               type: "primary",
                               title: "Join To Community",
-                              link: "https://t.me/xorai_chain",
+                              link: "https://t.me/xor_ai_eth",
                             }),
                           ],
                         }),
@@ -497,7 +497,7 @@
                               type: "bottomUp",
                               delay: 0.2,
                               children:
-                                "CA : 0x07bBfC50Ca14870cE9AdBF53c7668e4A000Eb422",
+                                "CA : 0x00000000000000000000000000000000000000",
                             }),
                           }),
                           (0, v.jsx)(k(), {
@@ -801,7 +801,7 @@
             title: "Plume Network",
             image: en.Plume,
             labels: ["Plume"],
-            properties: { url: "https://x.com/XorAi_Chain/" },
+            properties: { url: "https://x.com/Xor_Ai_Eth/" },
           },
           {
             id: "19",
